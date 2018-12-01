@@ -29,11 +29,11 @@ Android Developer - Interview Project
 # Screenshots
 
 
-![Main Screen](https://github.com/ondercaglar/PopularMovies_Stage2/blob/master/screen1.png)
+![Main Screen](https://github.com/ondercaglar/MoviesApp/blob/master/screen1.png)
 
-![Movie Detail Screen](https://github.com/ondercaglar/PopularMovies_Stage2/blob/master/screen2.png)
+![Main Screen 2](https://github.com/ondercaglar/MoviesApp/blob/master/screen2.png)
 
-![Movie Details](https://github.com/ondercaglar/PopularMovies_Stage2/blob/master/screen3.png)
+![Movie Details](https://github.com/ondercaglar/MoviesApp/blob/master/screen3.png)
 
 
 
