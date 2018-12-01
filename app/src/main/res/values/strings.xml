@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Movies App</string>
+
+
+    <string name="no_connection">You have disconnected. Please check your internet connection and try again.</string>
+    <string name="error_message">Failed to get results.\nPlease try again.</string>
+
+    <string name="pref_sort_label_popular">Popular</string>
+    <string name="pref_sort_label_top_rated">Top Rated</string>
+    <string name="pref_sort_label_favorites">Favorites</string>
+    <string name="pref_sort_label_now_playing">Now Playing</string>
+    <string name="pref_sort_label_upcoming">Upcoming</string>
+
+    <!-- Key name for sort preference in SharedPreferences -->
+
+    <string name="pref_sort_popular_value"      translatable="false">popular</string>
+    <string name="pref_sort_top_rated_value"    translatable="false">top_rated</string>
+    <string name="pref_sort_favorites_value"    translatable="false">favorites</string>
+    <string name="pref_sort_now_playing_value"  translatable="false">now_playing</string>
+    <string name="pref_sort_upcoming_value"     translatable="false">upcoming</string>
+
+    <!-- Detail Activity-->
+    <string name="movie_detail">Movie Detail</string>
+    <string name="txt_trailers_label">Trailers:</string>
+    <string name="txt_reviews_label">Reviews:</string>
+
+    <string name="fake_trailer_label">Trailer 1</string>
+    <string name="fake_movie_year">2015</string>
+    <string name="fake_movie_duration">120min</string>
+    <string name="fake_movie_vote_Average">8.1/10</string>
+    <string name="fake_movie_overview">Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Chappie he is a robot.</string>
+
+
+    <string name="add_favr">Added to Favorites.</string>
+    <string name="remove_favr">Removed from Favorites.</string>
+
+    <!-- Content descriptions-->
+
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="content_authority" translatable="false">com.interview.project.moviesapp</string>
+</resources>
